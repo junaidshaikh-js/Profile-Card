@@ -29,15 +29,15 @@ body{
 /* background section */
 #top-bg{
     position: absolute;
-    top: 0;
-    left: 0;
+     bottom: 35%;
+    right: 53%;
     z-index: -1;
 }
 
 #bottom-bg{
     position: absolute;
-    bottom: 0;
-    right: 0;
+    left: 48%;
+    top: 48%;
     z-index: -1;
 }
 
