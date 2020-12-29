@@ -128,6 +128,8 @@ hr{
 .attribution{
     margin-top: -14rem;
     text-align: center;
+    position: fixed;
+    bottom: 0;
 }
 
 .attribution p{
