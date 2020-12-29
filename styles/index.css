@@ -130,7 +130,7 @@ hr{
     text-align: center;
     position: fixed;
     bottom: 0;
-    float: right;
+    margin: auto;
 }
 
 .attribution p{
