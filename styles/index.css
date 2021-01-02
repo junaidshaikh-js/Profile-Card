@@ -125,26 +125,12 @@ hr{
 }
 
 /* attribution section */
-/* .attribution{
-    margin-top: -14rem;
+.attribution{
     text-align: center;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-}
-
-.attribution p{
-    padding: 1rem;
-}
-.attribution a{
-    color: var(--blue);
+    font-size: 1.2rem;
+    margin-top: -3rem;
 }
 
 .attribution a:hover{
     text-decoration: none;
-} */
-
-.attribution{
-    text-align: center;
-    font-size: 1.2rem;
-}
+} 
